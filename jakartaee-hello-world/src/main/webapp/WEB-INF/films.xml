@@ -1,0 +1,34 @@
+<films>
+    <film>
+        <id>4793924b-3495-48ab-9a01-5fa0fc231ef1</id>
+        <titre>Spiderman: no way home</titre>
+        <realisateur>toto</realisateur>
+        <annee>2024</annee>
+        <genre>Action</genre>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>   
+    </film>
+    <film>
+        <id>7294c630-dd59-484a-bd41-910bff050d76</id>
+        <titre>The great gatsby</titre>
+        <realisateur>toto</realisateur>
+        <annee>2024</annee>
+        <genre>Drame</genre>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>        
+    </film>
+    <film>
+        <id>45c3d0d2-b5c2-4055-a11a-5d82e368ab24</id>
+        <titre>The greatest showman</titre>
+        <realisateur>toto</realisateur>
+        <annee>2024</annee>
+        <genre>Action</genre>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>        
+    </film>
+    <film>
+        <id>874c8ed6-9f67-4410-a42b-7880f8898c9b</id>
+        <titre>Black panther</titre>
+        <realisateur>toto</realisateur>
+        <annee>2024</annee>
+        <genre>Action</genre>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </film>
+</films>

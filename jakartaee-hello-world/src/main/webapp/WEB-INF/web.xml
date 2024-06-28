@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" version="5.0">
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>ApiServlet</display-name>
+    <servlet-name>ApiServlet</servlet-name>
+    <servlet-class>org.eclipse.jakarta.hello.ApiServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ApiServlet</servlet-name>
+    <url-pattern>/movies</url-pattern>
+  </servlet-mapping>
+  <filter>
+    <display-name>Filtre</display-name>
+    <filter-name>Filtre</filter-name>
+    <filter-class>org.eclipse.jakarta.hello.Filtre</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>Filtre</filter-name>
+    <url-pattern>/Filtre</url-pattern>
+  </filter-mapping>
+</web-app>
