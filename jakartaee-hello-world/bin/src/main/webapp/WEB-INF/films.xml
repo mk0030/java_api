@@ -1,0 +1,10 @@
+ <films>
+    <film>
+        <id>id</id>
+        <titre>spiderman</titre>
+        <realisateur>toto</realisateur>
+        <annee>2023</annee>
+        <genre>Action</genre>
+        <description>Lorem Ipsum</description>   
+    </film>
+<films>
